@@ -4,7 +4,7 @@ import com.jude.Prisoner;
 import com.jude.Manager;
 
 /**
- * Created by Mr.Jude on 2015/11/6.
+ * Created by .. 2015/11/6.
  */
 public class collectPrisoner implements Prisoner {
     int totalCount;
